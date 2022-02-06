@@ -7,3 +7,5 @@ To submit your assignment, add a file called `my_assignment.sql` to this reposit
 If the database you need to use is the Northwind database, then your SQL file should start with
 
 `use northwind;`
+
+Added a line.
